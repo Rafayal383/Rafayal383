@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/Rafayal383/Rafayal383/blob/main/Purple%20Pink%20Modern%20Programmer%20LinkedIn%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Sanjay Rafayal</h1>
 <h3 align="center">An aspiring JAVA backend developer from Jharsuguda ,Odisha</h3>
