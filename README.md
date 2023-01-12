@@ -25,13 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafayalsanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafayalsanjay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjay-rafayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-rafayal" height="30" width="40" /></a>
-<a href="https://fb.com/sanjay rafayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjay rafayal" height="30" width="40" /></a>
-<a href="https://instagram.com/rafayal_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafayal_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanjay rafayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanjay rafayal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srafayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srafayal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srafayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srafayal" height="30" width="40" /></a>
+<a href="https://twitter.com/rafayalsanjay" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/twitter.png" alt="rafayalsanjay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjay-rafayal" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="sanjay-rafayal" height="30" width="40" /></a>
+<a href="https://fb.com/sanjay rafayal" target="blank"><img align="center" src="https://img.icons8.com/color/2x/facebook-new.png" alt="sanjay rafayal" height="30" width="40" /></a>
+<a href="https://instagram.com/rafayal_official" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" alt="rafayal_official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sanjay rafayal" target="blank"><img align="center" src="https://img.icons8.com/color/2x/youtube.png" alt="sanjay rafayal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/srafayal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="srafayal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srafayal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="srafayal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
