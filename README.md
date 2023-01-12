@@ -2,14 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Sanjay Rafayal</h1>
 <h3 align="center">An aspiring JAVA backend developer from Jharsuguda ,Odisha</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafayal383&label=Profile%20views&color=0e75b6&style=flat" alt="rafayal383" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafayal383" alt="rafayal383" /></a> </p>
+<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif">
+
+
+
+
+
+
 
 - 🌱 I’m currently learning **Spring Boot, RDBMS**
 
@@ -38,8 +39,11 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/javascript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/spring-logo.png" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafayal383&show_icons=true&locale=en&layout=compact" alt="rafayal383" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayal383&show_icons=true&locale=en" alt="rafayal383" /></p>
 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafayal383&show_icons=true&locale=en&layout=compact" alt="rafayal383" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayal383&show_icons=true&locale=en" alt="rafayal383" /></p> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafayal383" alt="rafayal383" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafayal383&" alt="rafayal383" /></p>
