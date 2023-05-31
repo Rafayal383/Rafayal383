@@ -12,15 +12,15 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot, RDBMS**
+- 🌱 I’m currently learning **Jmeter and MobileApp Testing**
 
 - 👨‍💻 All of my projects are available at [rafayal383.github.io](rafayal383.github.io)
 
-- 💬 Ask me about **JAVA, JavaScript**
+- 💬 Ask me about **SDET, JAVA, JavaScript**
 
 - 📫 How to reach me **srafayal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v38_yXM_RUOy5CzGczT6bt1pIIwmzse-/view?usp=share_link](https://drive.google.com/file/d/1v38_yXM_RUOy5CzGczT6bt1pIIwmzse-/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1v38_yXM_RUOy5CzGczT6bt1pIIwmzse-/view?usp=share_link](https://drive.google.com/file/d/1frLyyDxrOnHuztlM7pCewskRH4J75u_B/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm a musician🎶🎸**
 
