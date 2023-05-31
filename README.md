@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Rafayal383/Rafayal383/blob/main/Purple%20Pink%20Modern%20Programmer%20LinkedIn%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Sanjay Rafayal</h1>
-<h3 align="center">An aspiring JAVA backend developer from Jharsuguda ,Odisha</h3>
+<h3 align="center">An aspiring SDET from Jharsuguda ,Odisha</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafayal383&label=Profile%20views&color=0e75b6&style=flat" alt="rafayal383" /> </p>
 
 <img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif">
