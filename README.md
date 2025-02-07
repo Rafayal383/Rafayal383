@@ -1,57 +1,48 @@
 ![MasterHead](https://github.com/Rafayal383/Rafayal383/blob/main/Purple%20Pink%20Modern%20Programmer%20LinkedIn%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Sanjay Rafayal</h1>
-<h3 align="center">An aspiring SDET from Jharsuguda ,Odisha</h3>
+<h3 align="center">A passionate Software Development Engineer in Test (SDET) from India, dedicated to building robust and scalable automation frameworks, ensuring high-quality software through cutting-edge testing methodologies. 🚀</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafayal383&label=Profile%20views&color=0e75b6&style=flat" alt="rafayal383" /> </p>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafayal383" alt="rafayal383" /></a> </p>
 
 
 
+- 🌱 I’m currently learning **API Testing**
 
+- 👨‍💻 All of my projects are available at [https://rafayal383.github.io/](https://rafayal383.github.io/)
 
+- 💬 Ask me about **SDET, Java, Selenium, Appium**
 
+- 📫 How to reach me **rafayalsanju@gmail.com**
 
-👨‍💻 About Me:
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y01XnFsmAadT3JuWEdIi7MjZycjlFH5s/view?usp=sharing](https://drive.google.com/file/d/1Y01XnFsmAadT3JuWEdIi7MjZycjlFH5s/view?usp=sharing)
 
-🔭 Currently Working On: Web & Mobile App Automation Frameworks
-
-🌱 Currently Learning: Performance Testing with JMeter & Advanced Mobile Testing
-
-🏆 Achievements: Monthly Trailblazer Award for Mobile Automation
-
-📜 Experience: 1+ year in SDET, Web & Mobile Testing, API Automation
-
-💬 Ask Me About: SDET, Selenium, Appium, Java, JavaScript, API Testing
-
-👨‍💻 Portfolio & Projects: rafayal383.github.io
-
-📄 Resume: View Resume
-
-📫 How to reach me: srafayal@gmail.com
-
-⚡ Fun Fact: I'm also a musician 🎶🎸
+- ⚡ Fun fact **I'm also a musician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafayalsanjay" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/twitter.png" alt="rafayalsanjay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjay-rafayal" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="sanjay-rafayal" height="30" width="40" /></a>
-<a href="https://fb.com/sanjay rafayal" target="blank"><img align="center" src="https://img.icons8.com/color/2x/facebook-new.png" alt="sanjay rafayal" height="30" width="40" /></a>
-<a href="https://instagram.com/rafayal_official" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" alt="rafayal_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanjay rafayal" target="blank"><img align="center" src="https://img.icons8.com/color/2x/youtube.png" alt="sanjay rafayal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srafayal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="srafayal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srafayal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="srafayal" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/rafayalsanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafayalsanjay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjay-rafayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-rafayal" height="30" width="40" /></a>
+<a href="https://instagram.com/rafayal_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafayal_official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/srafayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="srafayal" height="30" width="40" /></a>
+<a href="https://twitter.com/rafayalsanjay" target="blank"><img  align="center" src="https://www.zilliondesigns.com/blog/wp-content/uploads/Twitter-New-Logo-X-2023-.jpg" alt="rafayalsanjay"  height="30" width="40" /></a> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/javascript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/spring-logo.png" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://i.tracxn.com/logo/company/bfce8b3cec7b295f814beecdf190f4?format=webp&height=120&width=120" alt="cypress" width="40" height="40"/> </a>
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
+  
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafayal383&show_icons=true&locale=en&layout=compact" alt="rafayal383" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafayal383&show_icons=true&locale=en&layout=compact" alt="rafayal383" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayal383&show_icons=true&locale=en" alt="rafayal383" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayal383&show_icons=true&locale=en" alt="rafayal383" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafayal383" alt="rafayal383" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafayal383&" alt="rafayal383" /></p>
