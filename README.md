@@ -12,17 +12,25 @@
 
 
 
-- 🌱 I’m currently learning **Jmeter and MobileApp Testing**
+👨‍💻 About Me:
 
-- 👨‍💻 All of my projects are available at [rafayal383.github.io](rafayal383.github.io)
+🔭 Currently Working On: Web & Mobile App Automation Frameworks
 
-- 💬 Ask me about **SDET, JAVA, JavaScript**
+🌱 Currently Learning: Performance Testing with JMeter & Advanced Mobile Testing
 
-- 📫 How to reach me **srafayal@gmail.com**
+🏆 Achievements: Monthly Trailblazer Award for Mobile Automation
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v38_yXM_RUOy5CzGczT6bt1pIIwmzse-/view?usp=share_link](https://drive.google.com/file/d/1frLyyDxrOnHuztlM7pCewskRH4J75u_B/view?usp=drive_link)
+📜 Experience: 1+ year in SDET, Web & Mobile Testing, API Automation
 
-- ⚡ Fun fact **I'm a musician🎶🎸**
+💬 Ask Me About: SDET, Selenium, Appium, Java, JavaScript, API Testing
+
+👨‍💻 Portfolio & Projects: rafayal383.github.io
+
+📄 Resume: View Resume
+
+📫 How to reach me: srafayal@gmail.com
+
+⚡ Fun Fact: I'm also a musician 🎶🎸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
